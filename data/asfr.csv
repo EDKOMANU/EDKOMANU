@@ -1,0 +1,15 @@
+region,age_group,asfr_rate
+RegionA,15-19,0.05
+RegionA,20-24,0.10
+RegionA,25-29,0.12
+RegionA,30-34,0.10
+RegionA,35-39,0.05
+RegionA,40-44,0.01
+RegionA,45-49,0.005
+RegionB,15-19,0.06
+RegionB,20-24,0.11
+RegionB,25-29,0.13
+RegionB,30-34,0.11
+RegionB,35-39,0.06
+RegionB,40-44,0.02
+RegionB,45-49,0.006
